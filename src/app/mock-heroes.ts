@@ -1,6 +1,5 @@
 import { Hero } from './hero';
-
-export const HEROES: Hero[] = [
+export const HEROES: Hero[] = [  //声明HEROES是一个以Hero接口为标准的数组
   { id: 11, name: 'Dr Nice' },
   { id: 12, name: 'Narco' },
   { id: 13, name: 'Bombasto' },
